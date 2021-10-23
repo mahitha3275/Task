@@ -1,0 +1,5 @@
+this is my first file in practice session.
+i created this filr in projectgit directory 
+upto now i just create my file
+after that ineed stage it and after that have to commit file.
+
